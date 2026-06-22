@@ -1,7 +1,7 @@
-# ProofKit Move-Out
+# Move-Out Photo Evidence
 
-Public marketing, privacy, terms, support, and App Store metadata pages for ProofKit Move-Out.
+Public marketing, privacy, terms, support, pricing, and App Store copy pages for Move-Out Photo Evidence.
 
-- Marketing: https://1nfr457ruc7ur3.github.io/ProofKitMoveOut/
-- Privacy: https://1nfr457ruc7ur3.github.io/ProofKitMoveOut/privacy.html
-- Support: https://1nfr457ruc7ur3.github.io/ProofKitMoveOut/support.html
+- Marketing: https://1nfr457ruc7ur3.github.io/MoveOutPhotoEvidence/
+- Privacy: https://1nfr457ruc7ur3.github.io/MoveOutPhotoEvidence/privacy.html
+- Support: https://1nfr457ruc7ur3.github.io/MoveOutPhotoEvidence/support.html
